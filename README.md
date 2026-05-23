@@ -1,5 +1,5 @@
 Hey there! 👋 I'm Sakshi
-🎓 Second-year Computer Engineering student with an insatiable curiosity for all things tech.
+🎓 Third-year Computer Engineering student with an insatiable curiosity for all things tech.
 
 🚀 On a mission to master the art of coding and software development.
 💡 Currently diving deep into web development, algorithms, and data structures.
